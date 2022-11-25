@@ -1,0 +1,13 @@
+#include <stdio.h>
+typedef struct nodes{
+  char data[10];
+  struct node *left, *right;
+}BTree;
+
+int llf = 0, lrf = 0;
+void express(BTree *T){
+  if(T){
+  if(
+  }
+
+}
