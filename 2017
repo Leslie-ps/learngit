@@ -7,7 +7,7 @@ typedef struct nodes{
 int llf = 0, lrf = 0;
 void express(BTree *T){
   if(T){
-  if(
+
   }
 
 }
